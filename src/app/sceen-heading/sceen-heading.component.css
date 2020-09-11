@@ -1,0 +1,18 @@
+.btnrounded{
+    border-radius: 35px;
+    width:160px;
+    margin-left: 20px;
+  }
+
+.btndiv{
+  /* margin-left:1100px; */
+  /* padding-top: 50px;*/
+   margin-left: 400px; 
+}
+
+.para{
+    color: rgb(31, 27, 27);
+    margin-left: -100px;
+    /* margin-top: 50px; */
+}
+
